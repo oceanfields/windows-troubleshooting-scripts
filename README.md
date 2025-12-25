@@ -1,2 +1,2 @@
 # windows-troubleshooting-scripts
-Pack of modular PowerShell scripts to fix common end-user problems.
+PowerShell scripts for common IT help desk troubleshooting tasks.
